@@ -1,0 +1,22 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Archives / releases
+*.zip
+
+# Temp / cache
+.phpunit.result.cache
+
+# Local dev only
+/vendor/
