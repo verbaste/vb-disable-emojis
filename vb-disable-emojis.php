@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name:       VB Disable Emojis
- * Plugin URI:        https://verbaste.com/
  * Description:       Completely disables WordPress emoji scripts and styles on frontend and backend. No settings, no UI, zero overhead.
  * Version:           1.0.0
  * Requires at least: 6.0
